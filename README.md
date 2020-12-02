@@ -1,3 +1,3 @@
 # Git web practice branch
 
-* [Instrucciones](https://codelabs-preview.appspot.com/?file_id=172nvQekOWWHnhMYiH18zOg6xNVJiRizJZP9IU81tJjw#0)
+* [Instrucciones](http://misovirtual.virtual.uniandes.edu.co/codelabs/git_web_practice_branch/index.html#0)
